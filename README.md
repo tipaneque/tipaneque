@@ -14,6 +14,9 @@ Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluç
 <div style="display: flex; gap: 10px;">
   
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-017396?style=for-the-badge&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-027396?style=for-the-badge&logo=Kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-037396?style=for-the-badge&logo=JS&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
@@ -34,7 +37,7 @@ Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluç
 
 ## 📫 Contacto
 - Email: miropedrolino@gmail.com
-- LinkedIn: [teu-linkedin](https://linkedin.com/in/miro-pedro-tipaneque-lino-794b9727a)
+- LinkedIn: https://linkedin.com/in/miro-pedro-tipaneque-lino-794b9727a
 
 ---
 
