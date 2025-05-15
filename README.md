@@ -2,14 +2,6 @@
 
 Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluções que combinam desempenho com simplicidade. Tenho experiência em projetos fullstack, com foco em aplicações Java e frontends modernos.
 
-## 🚀 Tecnologias & Ferramentas
-
-### Backend
-- Java, JavaFX, Spring Boot, Maven, Hibernate, H2
-
-### Frontend
-- Angular, JavaFX (UI desktop)
-
 ### Dev Tools & Gestão
 <div style="display: flex; gap: 10px;">
   
