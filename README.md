@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou um Desenvolvedor de Software e investigador em Engenharia de Redes de Computadores
+# 👋 Olá, eu sou um Desenvolvedor de Software
 
 Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluções que combinam desempenho com simplicidade. Tenho experiência em projetos fullstack, com foco em aplicações Java e frontends modernos.
 
