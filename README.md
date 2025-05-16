@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou um Desenvolvedor de Software
+# 👋 Olá, eu sou um Desenvolvedor de Software e entusiasta em Redes de Computadores e Administração e Segurança de Sistemas de Computadores
 
 Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluções que combinam desempenho com simplicidade. Tenho experiência em projetos fullstack, com foco em aplicações Java e frontends modernos.
 
@@ -35,6 +35,8 @@ Sou apaixonado por desenvolvimento de software, arquitetura de sistemas e soluç
 - Melhorar continuamente minhas competências em arquitetura de software.
 - Trabalhar em projetos que utilizam **Spring** + **Angular**.
 - Estudar melhores práticas de CI/CD e DevOps.
+- Projectar e configurar topologias de rede.
+- Administrar Computadores virtuais.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tipaneque&show_icons=true&theme=tokyonight)
