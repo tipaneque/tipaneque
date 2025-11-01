@@ -83,8 +83,8 @@ An Android application to search, track, and manage anime lists, integrating wit
 
 ##  Contact  
 
-- **Tel:** +258 868660661
-- **Email:** [miropedrolino@gmail.com](mailto:miropedrolino@gmail.com)  
+- **Tel:** +258 866661662
+- **Email:** [miro.tipaneque@gmail.com](mailto:miro.tipaneque@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/miro-pedro-tipaneque-lino-794b9727a](https://linkedin.com/in/miro-pedro-tipaneque-lino-794b9727a)  
 
 ---
