@@ -1,6 +1,6 @@
 # Miro Pedro Tipaneque Lino  
 
-### Software Developer | Systems Integration | Selenium RPA Developer
+### Software Engineer | Integration Engineer | Selenium RPA Developer
 
 I am a software developer passionate about technology, system architecture, and building solutions that combine performance, security, and simplicity.  
 I have experience in **fullstack development**, focusing on **Java applications** and **modern frontends**, as well as **systems integration** and **process automation (RPA)** using **Selenium**.  
