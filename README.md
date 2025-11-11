@@ -54,9 +54,11 @@ An Android application that combines user authentication with an anime image gal
 
 ---
 
-### [Fingerprint App](https://github.com/tipaneque/fingerprint-scanner)
-**Sprinng boot | HTML | CSS | JS**  
+### [Fingerprint Application](https://github.com/tipaneque/fingerprint-scanner)
+**Spring boot | HTML | CSS | JS**  
 Fullstack web application for interacting with fingerprint scanner via native DLLs, with a real-time web interface.
+
+---
 
 ### [VerifySDK](https://github.com/tipaneque/VerifySDK)  
 **Android & Java SDK for Identity Verification**  
