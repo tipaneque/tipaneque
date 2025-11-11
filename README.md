@@ -48,6 +48,12 @@ My interests also include **computer networks**, **system administration and sec
 
 ##  Featured Projects  
 
+### [My Anime Tracker](https://github.com/tipaneque/My_Anime_Tracker)
+**Android SDK & java**
+An Android application that combines user authentication with an anime image gallery powered by the Danbooru API.
+
+---
+
 ### [VerifySDK](https://github.com/tipaneque/VerifySDK)  
 **Android & Java SDK for Identity Verification**  
 A custom SDK that integrates biometric and document verification (FaceTec) into Android apps.  
