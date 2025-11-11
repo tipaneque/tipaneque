@@ -49,7 +49,7 @@ My interests also include **computer networks**, **system administration and sec
 ##  Featured Projects  
 
 ### [My Anime Tracker](https://github.com/tipaneque/My_Anime_Tracker)
-**Android SDK & java**
+**Android SDK & java**  
 An Android application that combines user authentication with an anime image gallery powered by the Danbooru API.
 
 ---
@@ -72,12 +72,6 @@ Implements Spring Security and RESTful APIs with a clean layered architecture.
 **JavaFX | MySQL | Offline Mode (SQLite)**  
 Desktop POS system supporting hybrid retail/wholesale operations.  
 Includes offline data sync, client management, and a planned central API for future web/mobile integration.  
-
----
-
-### [MyAnimeTracker](https://github.com/tipaneque/MyAnimeTracker)  
-**Android (Java) | MyAnimeList API v2**  
-An Android application to search, track, and manage anime lists, integrating with MyAnimeList to sync user watch statuses.  
 
 ---
 
