@@ -50,7 +50,6 @@ My interests also include **computer networks**, **system administration and sec
 
 ### [My Anime Tracker](https://github.com/tipaneque/My_Anime_Tracker)
 **Android SDK & java**
-
 An Android application that combines user authentication with an anime image gallery powered by the Danbooru API.
 
 ---
