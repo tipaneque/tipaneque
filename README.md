@@ -67,7 +67,7 @@ Features modular architecture with `Initialization`, `VerificationManager`, and 
 
 ---
 
-### [Internet Banking System](https://github.com/tipaneque/InternetBankingSystem)  
+### [Internet Banking System](https://github.com/tipaneque/Moza_banking_full_stack)  
 **Spring Boot | Angular | MySQL**  
 A fullstack banking platform featuring user authentication (JWT), roles (Admin & Client), balance checking, transfers, and transaction history.  
 Implements Spring Security and RESTful APIs with a clean layered architecture.  
